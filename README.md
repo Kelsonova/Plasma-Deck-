@@ -14,14 +14,6 @@ Plasmadeck is a fork of DroidDeck. It brings the SteamOS experience to Android: 
   <a href="https://www.star-history.com/droid-deck/droiddeck"><img src="https://api.star-history.com/badge?repo=Droid-Deck/DroidDeck&type=rank&theme=dark" alt="Star History Rank"></a>
 </p>
 
-<p align="center">
-  <a href="https://trendshift.io/repositories/267852"><img src="https://trendshift.io/api/badge/trendshift/repositories/267852/daily?language=C" alt="Droid-Deck%2FDroidDeck | Trendshift" width="250" height="55"></a>
-  <a href="https://trendshift.io/repositories/267852"><img src="https://trendshift.io/api/badge/trendshift/repositories/267852/daily?language=Kotlin" alt="Droid-Deck%2FDroidDeck | Trendshift" width="250" height="55"></a>
-</p>
-
-<p align="center"><img src="docs/media/steam-to-desktop.gif" width="100%" alt="On a Retroid Pocket Duo: Play Steam from the DroidDeck launcher, open Pac-Man in Steam Big Picture and play it, exit the game, then Switch to Desktop from the Power menu"></p>
-
-> The official website is [droid-deck.dev](https://droid-deck.dev). Only download DroidDeck from this repository's [Releases](https://github.com/Droid-Deck/DroidDeck/releases).
 
 <p align="center">
   <img src="docs/releases/media/0.6.7/library.gif" width="49%" alt="The Library switching source chips, changing the card size and opening the Filter menu">
